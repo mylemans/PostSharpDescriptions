@@ -1,8 +1,8 @@
-﻿PostSharpDescription v1.0
-	(c) 2011 Tim Mylemans 
--------------------------
+﻿PostSharpDescriptions v1.0
+     (c) 2011 Tim Mylemans 
+--------------------------
 
-PostSharpDescription allows you to add one or more descriptions to elements that are manipulated by an aspect. 
+PostSharpDescriptions allows you to add one or more descriptions to elements that are manipulated by an aspect. 
 This is done at post-compile (when the aspect is applied to the assembly), and in the on-hover pop up, as an addition
 to the information that is shown there already.
 
@@ -42,7 +42,7 @@ Known issues
 Remarks
 -------
 
-*	PostSharpDescription adds in a nice (partial) solution for not being able to add text to the on-hover pop up that PostSharp shows.
+*	PostSharpDescriptions adds in a nice (partial) solution for not being able to add text to the on-hover pop up that PostSharp shows.
 	This is done in the hope that eventually such a feature will be added in a future release of PostSharp as now you know what you're missing out on.
 	The ability to generate extra descriptions that are shown on-hover make it so much easier to maintain overview of what an aspect does.
 *	It is free, and not perfect. Be free to make improvements, but you wont be able (as far as I know that is) to finish the 2nd issue from the 'Known Issues' list.
